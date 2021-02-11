@@ -1,0 +1,4 @@
+Conexão:
+Banco: shangr71_shangrila
+Nome de usuario: shangr71
+Senha: rosa290880

@@ -1,0 +1,22 @@
+[25-Oct-2019 02:24:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/shangr71/public_html/admin/cponto/pfunc.php on line 23
+[25-Oct-2019 02:24:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/shangr71/public_html/admin/cponto/pfunc.php on line 73
+[25-Oct-2019 02:24:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/shangr71/public_html/admin/cponto/pfunc.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/shangr71/public_html/admin/cponto/pfunc.php on line 75
+[25-Oct-2019 02:32:41 UTC] PHP Notice:  Undefined index: codponto in /home/shangr71/public_html/admin/cponto/pdata.php on line 76
+[25-Oct-2019 02:32:41 UTC] PHP Notice:  Undefined index: hora in /home/shangr71/public_html/admin/cponto/pdata.php on line 76
+[25-Oct-2019 02:32:41 UTC] PHP Notice:  Undefined index: codponto in /home/shangr71/public_html/admin/cponto/pdata.php on line 76
+[25-Oct-2019 02:32:41 UTC] PHP Notice:  Undefined index: hora in /home/shangr71/public_html/admin/cponto/pdata.php on line 76
+[25-Oct-2019 02:32:41 UTC] PHP Notice:  Undefined index: codponto in /home/shangr71/public_html/admin/cponto/pdata.php on line 76
+[25-Oct-2019 02:32:41 UTC] PHP Notice:  Undefined index: hora in /home/shangr71/public_html/admin/cponto/pdata.php on line 76
+[25-Oct-2019 02:32:41 UTC] PHP Notice:  Undefined index: codponto in /home/shangr71/public_html/admin/cponto/pdata.php on line 76
+[25-Oct-2019 02:32:41 UTC] PHP Notice:  Undefined index: hora in /home/shangr71/public_html/admin/cponto/pdata.php on line 76
+[25-Oct-2019 02:32:41 UTC] PHP Notice:  Undefined index: codponto in /home/shangr71/public_html/admin/cponto/pdata.php on line 76
+[25-Oct-2019 02:32:41 UTC] PHP Notice:  Undefined index: hora in /home/shangr71/public_html/admin/cponto/pdata.php on line 76
+[25-Oct-2019 02:32:41 UTC] PHP Notice:  Undefined index: codponto in /home/shangr71/public_html/admin/cponto/pdata.php on line 76
+[25-Oct-2019 02:32:41 UTC] PHP Notice:  Undefined index: hora in /home/shangr71/public_html/admin/cponto/pdata.php on line 76
+[25-Oct-2019 02:32:41 UTC] PHP Notice:  Undefined index: codponto in /home/shangr71/public_html/admin/cponto/pdata.php on line 76
+[25-Oct-2019 02:32:41 UTC] PHP Notice:  Undefined index: hora in /home/shangr71/public_html/admin/cponto/pdata.php on line 76
+[25-Oct-2019 02:32:41 UTC] PHP Notice:  Undefined index: codponto in /home/shangr71/public_html/admin/cponto/pdata.php on line 76
+[25-Oct-2019 02:32:41 UTC] PHP Notice:  Undefined index: hora in /home/shangr71/public_html/admin/cponto/pdata.php on line 76

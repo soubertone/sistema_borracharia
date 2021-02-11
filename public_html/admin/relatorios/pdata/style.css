@@ -1,0 +1,41 @@
+.cabecalho {
+    margin: 10px;
+    border: 50px;
+}
+.conteudo {
+    margin: 5px;
+    margin-top: 30px;
+    border: 1px solid;
+}
+
+#logo {
+    object-position: top;
+    width: auto;
+    height: 80px;
+    position: absolute;
+}
+
+#texttop {
+    text-align: right;
+    position:static;
+    font-size: 12px;
+    margin: 0px;
+    border: 0px;
+    margin-top: 2px;
+}
+
+#tab1 {
+    border: 1px solid;
+}
+
+#field1 {
+    width: 680px;
+    height: auto;
+    margin: 5px;
+    margin-top: 30px;
+}
+
+#ltitle {
+    font-size: 19px;
+    font-family: Arial, cursive;
+}

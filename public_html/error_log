@@ -1,0 +1,43 @@
+[17-Oct-2019 23:49:49 UTC] PHP Notice:  Undefined variable: id_users in /home/shangr71/public_html/regfunc.php on line 14
+[25-Oct-2019 02:22:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/shangr71/public_html/editfunc.php on line 21
+[25-Oct-2019 02:22:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/shangr71/public_html/editfunc.php on line 27
+[25-Oct-2019 02:22:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/shangr71/public_html/editfunc.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/shangr71/public_html/editfunc.php on line 73
+[25-Oct-2019 02:22:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'shangr71'@'localhost' (using password: YES) in /home/shangr71/public_html/editfunc.php on line 21
+[25-Oct-2019 02:22:55 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/shangr71/public_html/editfunc.php on line 27
+[25-Oct-2019 02:22:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/shangr71/public_html/editfunc.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/shangr71/public_html/editfunc.php on line 73
+[25-Oct-2019 02:22:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'shangr71'@'localhost' (using password: YES) in /home/shangr71/public_html/editfunc.php on line 21
+[25-Oct-2019 02:22:56 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/shangr71/public_html/editfunc.php on line 27
+[25-Oct-2019 02:22:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/shangr71/public_html/editfunc.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/shangr71/public_html/editfunc.php on line 73
+[25-Oct-2019 02:22:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'shangr71'@'localhost' (using password: YES) in /home/shangr71/public_html/editfunc.php on line 21
+[25-Oct-2019 02:22:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/shangr71/public_html/editfunc.php on line 27
+[25-Oct-2019 02:22:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/shangr71/public_html/editfunc.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/shangr71/public_html/editfunc.php on line 73
+[25-Oct-2019 02:22:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'shangr71'@'localhost' (using password: YES) in /home/shangr71/public_html/editfunc.php on line 21
+[25-Oct-2019 02:22:58 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/shangr71/public_html/editfunc.php on line 27
+[25-Oct-2019 02:22:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/shangr71/public_html/editfunc.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/shangr71/public_html/editfunc.php on line 73
+[25-Oct-2019 02:22:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'shangr71'@'localhost' (using password: YES) in /home/shangr71/public_html/editfunc.php on line 21
+[25-Oct-2019 02:22:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/shangr71/public_html/editfunc.php on line 27
+[25-Oct-2019 02:22:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/shangr71/public_html/editfunc.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/shangr71/public_html/editfunc.php on line 73
+[25-Oct-2019 02:23:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'shangr71'@'localhost' (using password: YES) in /home/shangr71/public_html/editfunc.php on line 21
+[25-Oct-2019 02:23:00 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/shangr71/public_html/editfunc.php on line 27
+[25-Oct-2019 02:23:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/shangr71/public_html/editfunc.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/shangr71/public_html/editfunc.php on line 73

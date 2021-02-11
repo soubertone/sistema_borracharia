@@ -1,0 +1,2 @@
+[21-Oct-2019 22:10:48 UTC] PHP Parse error:  syntax error, unexpected '|' in /home/shangr71/public_html/admin/saidas.php on line 65
+[21-Oct-2019 22:10:57 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/shangr71/public_html/admin/saidas.php on line 65

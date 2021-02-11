@@ -1,0 +1,6 @@
+[22-Oct-2019 14:25:12 UTC] PHP Warning:  require_once(class/Autentica.class.php): failed to open stream: No such file or directory in /home/shangr71/public_html/admin/insert/cliente.php on line 3
+[22-Oct-2019 14:25:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/Autentica.class.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/shangr71/public_html/admin/insert/cliente.php on line 3
+[22-Oct-2019 14:25:22 UTC] PHP Warning:  require_once(class/Autentica.class.php): failed to open stream: No such file or directory in /home/shangr71/public_html/admin/insert/cliente.php on line 3
+[22-Oct-2019 14:25:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/Autentica.class.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/shangr71/public_html/admin/insert/cliente.php on line 3
+[22-Oct-2019 14:25:32 UTC] PHP Warning:  require_once(class/Autentica.class.php): failed to open stream: No such file or directory in /home/shangr71/public_html/admin/insert/cliente.php on line 3
+[22-Oct-2019 14:25:32 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/Autentica.class.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/shangr71/public_html/admin/insert/cliente.php on line 3

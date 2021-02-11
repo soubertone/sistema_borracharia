@@ -1,0 +1,22 @@
+[16-Oct-2019 20:55:23 America/Sao_Paulo] PHP Notice:  Use of undefined constant end - assumed 'end' in /home/shangr71/public_html/sql/cponto.php on line 46
+[16-Oct-2019 21:38:18 America/Sao_Paulo] PHP Notice:  Use of undefined constant end - assumed 'end' in /home/shangr71/public_html/sql/fechacaixa.php on line 48
+[18-Oct-2019 09:57:26 America/Sao_Paulo] PHP Notice:  Use of undefined constant end - assumed 'end' in /home/shangr71/public_html/sql/cponto.php on line 46
+[18-Oct-2019 09:58:02 America/Sao_Paulo] PHP Notice:  Use of undefined constant end - assumed 'end' in /home/shangr71/public_html/sql/cponto.php on line 46
+[21-Oct-2019 17:07:17 America/Sao_Paulo] PHP Notice:  Use of undefined constant end - assumed 'end' in /home/shangr71/public_html/sql/fechacaixa.php on line 48
+[21-Oct-2019 17:08:21 America/Sao_Paulo] PHP Notice:  Use of undefined constant end - assumed 'end' in /home/shangr71/public_html/sql/fechacaixa.php on line 48
+[21-Oct-2019 17:09:57 America/Sao_Paulo] PHP Warning:  end() expects exactly 1 parameter, 0 given in /home/shangr71/public_html/sql/fechacaixa.php on line 48
+[21-Oct-2019 19:10:27 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/shangr71/public_html/sql/fechacaixa.php on line 48
+[21-Oct-2019 17:11:12 America/Sao_Paulo] PHP Warning:  end() expects parameter 1 to be array, string given in /home/shangr71/public_html/sql/fechacaixa.php on line 48
+[21-Oct-2019 19:12:04 UTC] PHP Notice:  Use of undefined constant end - assumed 'end' in /home/shangr71/public_html/sql/fechacaixa.php on line 9
+[21-Oct-2019 17:12:05 America/Sao_Paulo] PHP Warning:  end() expects parameter 1 to be array, string given in /home/shangr71/public_html/sql/fechacaixa.php on line 50
+[21-Oct-2019 17:12:48 America/Sao_Paulo] PHP Notice:  Use of undefined constant end - assumed 'end' in /home/shangr71/public_html/sql/fechacaixa.php on line 48
+[21-Oct-2019 19:18:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/shangr71/public_html/sql/fechacaixa.php on line 27
+[22-Oct-2019 12:37:04 America/Sao_Paulo] PHP Notice:  Use of undefined constant end - assumed 'end' in /home/shangr71/public_html/sql/cponto.php on line 46
+[22-Oct-2019 23:27:47 America/Sao_Paulo] PHP Notice:  Use of undefined constant end - assumed 'end' in /home/shangr71/public_html/sql/cponto.php on line 46
+[22-Oct-2019 23:28:03 America/Sao_Paulo] PHP Notice:  Use of undefined constant end - assumed 'end' in /home/shangr71/public_html/sql/cponto.php on line 46
+[22-Oct-2019 23:28:15 America/Sao_Paulo] PHP Notice:  Use of undefined constant end - assumed 'end' in /home/shangr71/public_html/sql/cponto.php on line 46
+[22-Oct-2019 23:28:30 America/Sao_Paulo] PHP Notice:  Use of undefined constant end - assumed 'end' in /home/shangr71/public_html/sql/cponto.php on line 46
+[25-Oct-2019 00:24:28 America/Sao_Paulo] PHP Notice:  Use of undefined constant end - assumed 'end' in /home/shangr71/public_html/sql/cponto.php on line 46
+[25-Oct-2019 00:35:46 America/Sao_Paulo] PHP Notice:  Use of undefined constant end - assumed 'end' in /home/shangr71/public_html/sql/cponto.php on line 46
+[25-Oct-2019 09:56:03 America/Sao_Paulo] PHP Notice:  Use of undefined constant end - assumed 'end' in /home/shangr71/public_html/sql/cponto.php on line 46
+[25-Oct-2019 09:57:11 America/Sao_Paulo] PHP Notice:  Use of undefined constant end - assumed 'end' in /home/shangr71/public_html/sql/cponto.php on line 46
